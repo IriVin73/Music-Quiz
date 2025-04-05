@@ -1,0 +1,22 @@
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\bin\Debug\EDP_MusicQuiz.exe.config
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\bin\Debug\EDP_MusicQuiz.exe
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\bin\Debug\EDP_MusicQuiz.pdb
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.csproj.AssemblyReference.cache
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.Properties.Resources.resources
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.StartMenu.resources
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.csproj.GenerateResource.cache
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.csproj.CoreCompileInputs.cache
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.exe
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.pdb
+C:\Users\HBullen\Desktop\EDP_MusicQuiz\obj\Debug\EDP_MusicQuiz.Quiz.resources
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.exe
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.pdb
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\bin\Debug\EDP_MusicQuiz.exe.config
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\bin\Debug\EDP_MusicQuiz.exe
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\bin\Debug\EDP_MusicQuiz.pdb
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.Properties.Resources.resources
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.Quiz.resources
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.StartMenu.resources
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\School\A-levels\Computer Science - OCR\code\EDP_MusicQuiz -Student Version\obj\Debug\EDP_MusicQuiz.csproj.CoreCompileInputs.cache
